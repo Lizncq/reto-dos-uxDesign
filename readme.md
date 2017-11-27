@@ -2,7 +2,7 @@
 ## Identifica los elementos de navegación en los siguientes sites
 pagina web escojida: Github
 
-![YOUTUBE](assets/img/youtube.jpg_large)
+![GITHUB](assets/img/github.jpg_large)
 
 ## Navegación
 
